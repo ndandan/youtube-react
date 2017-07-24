@@ -3,6 +3,7 @@
     "version": "0.1.0",
     "description": "React app that uses the youtube api",
     "private": true,
+    "homepage": "http://danmorgan.io/project/youtube-react/",
     "dependencies": {
         "react": "^15.6.1",
         "react-dom": "^15.6.1",
