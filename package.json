@@ -1,0 +1,20 @@
+{
+    "name": "youtube-react",
+    "version": "0.1.0",
+    "description": "React app that uses the youtube api",
+    "private": true,
+    "dependencies": {
+        "react": "^15.6.1",
+        "react-dom": "^15.6.1",
+        "react-scripts": "1.0.10",
+        "lodash": "^3.10.1",
+        "babel-preset-stage-1": "^6.1.18",
+        "youtube-api-search": "0.0.5"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
+    }
+}
