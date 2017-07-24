@@ -11,8 +11,10 @@ module.exports = function (options, callback) {
     maxResults: '25',
     part: 'snippet',
     key: options.key,
+    order: 'viewCount',
     q: options.term,
-    type: 'video'
+    type: 'video',
+    videoDefinition: 'high'
   };
 
   axios.get(ROOT_URL, { params: params })
