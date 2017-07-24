@@ -1,8 +1,6 @@
-import React, {
-    Component
-} from 'react';
+import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
-import YTSearch from 'youtube-api-search';
+import YTSearch from './youtube-search';
 import _ from 'lodash';
 import './App.css';
 
