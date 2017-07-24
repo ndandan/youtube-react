@@ -9,8 +9,7 @@
         "react-dom": "^15.6.1",
         "react-scripts": "1.0.10",
         "lodash": "^3.10.1",
-        "babel-preset-stage-1": "^6.1.18",
-        "youtube-api-search": "0.0.5"
+        "babel-preset-stage-1": "^6.1.18"
     },
     "scripts": {
         "start": "react-scripts start",
